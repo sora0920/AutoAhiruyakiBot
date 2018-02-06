@@ -1,0 +1,8 @@
+[package]
+name = "ahiruyaki"
+version = "0.1.0"
+authors = ["SORA0920 <sora02230112@gmail.com>"]
+
+[dependencies]
+reqwest = "*"
+json_flex = "*"
