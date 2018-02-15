@@ -1,8 +1,0 @@
-{
-  "name": "test",
-  "host": "social.mikutter.hachune.net", 
-  "token":"8d2571ed0490be0ff4866eee23d68d6b00885108afc0e30fb11f2e3cf4b87107", 
-  "status":"test", 
-  "spoiler_text": "test", 
-  "visibility": "unlisted"
-}
